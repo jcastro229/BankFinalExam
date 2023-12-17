@@ -1,3 +1,5 @@
+//Joel Castro (jcastro229@toromail.csudh.edu)
+
 package finalExamJC;
 import java.util.ArrayList;
 import java.util.Scanner;
